@@ -8,8 +8,8 @@
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logoclassicalpress.png",
-  "name": "Classical Press ",
-  "short_name": "manuais.classicalpress ",
+  "name": "Classical Press teste",
+  "short_name": "manuais.classicalpress",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -20,6 +20,6 @@
   "secondary_color": "#4f4f4f",
   "icon": "/img/uploads/faviconv2.png",
   "store_id": 51504,
-  "description": "manuais.classicalpress",
+  "description": "manuais.classicalpress ",
   "large_icon": "/img/uploads/faviconv2.png"
 }

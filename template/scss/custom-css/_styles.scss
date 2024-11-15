@@ -7,14 +7,14 @@ body{
     --txt:#4f4f4f;
     --gray: #4f4f4f;
     --wht:#fff;
-    --color1:#293d51;
+    --color1:#99bf7c;
     --color2:#dd9f3d;
     --color-border:#E8E8E8;
     --color-bg: #f8f8f8;
     --body-bg: #f8f8f8;
 
     --primary:var(--color1);
-    --primary-dark:#29323e;
+    --primary-dark:#89a863;
     --content-max-width:81.25rem;
 
     --btnrad: .25rem;
@@ -115,7 +115,7 @@ main .top-bar a.top-bar__countdown{
             line-height: initial;
             font-size: var(--font-size-sm);
             border: 0;
-            background: #29323e;
+            background: #89a863;
         }
         input::placeholder{color:#fff}
         .header__search-btn{
@@ -125,7 +125,7 @@ main .top-bar a.top-bar__countdown{
             height: 2.938rem;
             right: 0;
             align-items: center;
-            background: #29323e!important;
+            background: #89a863!important;
         }
     }
     .header__buttons .btn .badge{
@@ -2074,7 +2074,7 @@ border: 3px solid #f2f2f2;
         }
         form{
             border-radius: .313rem;
-            background: #29323e;
+            background: #89a863;
             display: flex;
             align-items: center;
             input{
@@ -2082,7 +2082,7 @@ border: 3px solid #f2f2f2;
                 border: 0;
                 font-size: var(--font-size-sm);
                 height: 38px;
-                background: #29323e;
+                background: #89a863;
             }
             input::placeholder{color: #fff;}
             button{
@@ -2848,4 +2848,17 @@ border: 3px solid #f2f2f2;
     font-size: var(--h4);
     font-weight: 600;
     display: block;
+}
+
+.product__unavailable,
+.product__out-of-stock{
+    border-radius: .625rem;
+    height: 60px;
+    padding: 0 1.563rem;
+    width: 100%;
+    background: var(--warning);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

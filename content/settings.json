@@ -7,19 +7,19 @@
     "custom": "clean-white"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logoclassicalpress.png",
+  "logo": "/img/uploads/logo_alicerces.png",
   "name": "Classical Press teste",
   "short_name": "manuais.classicalpress",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/faviconv2.png",
+  "favicon": "",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#4f4f4f",
-  "icon": "/img/uploads/faviconv2.png",
+  "icon": "",
   "store_id": 51504,
   "description": "manuais.classicalpress ",
-  "large_icon": "/img/uploads/faviconv2.png"
+  "large_icon": ""
 }
